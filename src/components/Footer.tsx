@@ -27,7 +27,7 @@ You Don’t Chase Admissions. We Bring Them to You. </p>
             </div>
             <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
                 <p className="text-gray-400 text-sm mb-4 md:mb-0">
-                    ©2025 • All Rights Reserved
+                    ©2025 All Rights Reserved.
                 </p>
                 <div className="flex space-x-6">
                     <a href="#" className="text-gray-400 hover:text-white text-sm transition">Privacy Policy</a>
